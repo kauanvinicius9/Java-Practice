@@ -8,7 +8,7 @@ public class num10 {
         // Ler os 10 números
         System.out.println("Digite 10 números: ");
         for (int i = 0; i < 10; i++) {
-            System.out.println("Número: " + (i) + ": ");
+            System.out.println("Número: " + (i + 1) + ": ");
             numeros[i] = sc.nextInt();
 
         }
@@ -34,6 +34,7 @@ public class num10 {
                             contador++;
                         }
                     }
+                    
                     System.out.println("Quantidade de números pares: " + contador);
                     break;
 
@@ -43,6 +44,7 @@ public class num10 {
                             contador++;
                         }
                     }
+
                     System.out.println("Quantidade de números ímpares: " + contador);
                     break;
 
@@ -52,6 +54,7 @@ public class num10 {
                             contador++;
                         }
                     }
+
                     System.out.println("Quantidade de números positivos: " + contador);
                     break;
 
@@ -61,6 +64,7 @@ public class num10 {
                             contador++;
                         }
                     }
+
                     System.out.println("Quantidade de números negativos: " + contador);
                     break;
 
