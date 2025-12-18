@@ -1,34 +1,34 @@
-**<h2>Projeto Java</h2>**
+**<h2>Java Project</h2>**
 
 ###
 
-Este repositório contém um projeto desenvolvido em Java, com foco em boas práticas de programação, organização de código e aprendizado da linguagem.
-O objetivo é servir como base para estudos, testes, exemplos práticos e evolução contínua em Java.
+This repository contains a project developed in `Java`, focusing on good **programming practices**, code organization, and `language learning`.
+The goal is to serve as a basis for **studies**, **tests**, **practical examples**, and continuous **evolution** in `Java`.
 
 ---
 
-**<h2>Objetivo do Projeto</h2>
+**<h2>Project Objective</h2>**
 
 ###
 
-- Praticar conceitos fundamentais da linguagem Java;
-- Aplicar boas práticas de programação;
-- Explorar estruturas, APIs e recursos do Java;
-- Servir como base reutilizável para outros projetos.
+- Practice fundamental concepts of the `Java` language;
+- Apply good programming practices;
+- Explore `Java structures`, `APIs`, and `features`;
+- To serve as a reusable base for other projects.
 
 ---
 
-**<h2>Conceitos Abordados</h2>**
+**<h2>Concepts Covered</h2>**
 
 ###
 
-- Programação Orientada a Objetos (POO);
-- Classes e Objetos;
-- Coleções (List, Set, Map);
-- Tratamento de exceções;
-- Entrada e saída de dados;
-- Práticas de código;
-- Organização de pacotes.
+- Object-Oriented Programming (`OOP`);
+- Classes and Objects;
+- Collections (`List`, `Set`, `Map`);
+- Exception handling;
+- Data input and output;
+- **Code** practices;
+- **Package** organization.
 
 ---
 
