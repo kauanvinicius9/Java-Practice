@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class num10 {
+public class numbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] numeros = new int[10];
@@ -34,7 +34,6 @@ public class num10 {
                             contador++;
                         }
                     }
-                    
                     System.out.println("Quantidade de números pares: " + contador);
                     break;
 
@@ -44,7 +43,6 @@ public class num10 {
                             contador++;
                         }
                     }
-
                     System.out.println("Quantidade de números ímpares: " + contador);
                     break;
 
@@ -54,7 +52,6 @@ public class num10 {
                             contador++;
                         }
                     }
-
                     System.out.println("Quantidade de números positivos: " + contador);
                     break;
 
@@ -64,14 +61,13 @@ public class num10 {
                             contador++;
                         }
                     }
-
                     System.out.println("Quantidade de números negativos: " + contador);
                     break;
 
                 case 5:
                     System.out.println("Encerrando...");
                     sc.close();
-                    break;
+                    return;
 
                 default:
                     System.out.println("Opção não identificada");
