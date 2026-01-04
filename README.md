@@ -29,9 +29,3 @@ The goal is to serve as a basis for **studies**, **tests**, **practical examples
 - Data input and output;
 - **Code** practices;
 - **Package** organization.
-
----
-
-```powershell
-git clone https://github.com/kauanvinicius9/Java-Practice.git
-```
